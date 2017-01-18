@@ -1,0 +1,27 @@
+{
+  "name": "mocha",
+  "version": "1.0.0",
+  "description": "a basic unit test case",
+  "main": "test1.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aashish-1008/mocha-basic.git"
+  },
+  "keywords": [
+    "unit",
+    "test"
+  ],
+  "author": "Aashish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aashish-1008/mocha-basic/issues"
+  },
+  "homepage": "https://github.com/Aashish-1008/mocha-basic#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {}
+}
